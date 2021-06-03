@@ -1,6 +1,8 @@
-<h1 align="center">⚡</h1>
+<div>
+    <h1 align="center">⚡</h1> <br>
+    <h1 align="center">vampyrsoda-blog</h1>
+</div>
 
-# vampyrsoda-blog
 *FullStack Site Development.*
 
 ### Main-Missions
@@ -42,8 +44,8 @@
 *Some styles for the basics visuals concepts, for the start, just usyng pure HTML / CSS, for the future gonna migrate to reactjs and implement some Animations.*
 
 <h1 align="center">
-    <image src="./source/screen/screen-v1.png" />
+    <image src="./source/screen/screen-v0.png" />
 </h1>
 
-<h1 aling="center">🧷 AUTHOR</h1>
+<h1 align="center">🧷 AUTHOR</h1>
 
