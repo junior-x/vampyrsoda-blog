@@ -1,7 +1,9 @@
 <?php 
 
-include 'Artigo.php';
-$artigo = new Artigo();
+require 'Config.php';
+
+include 'src/Artigo.php';
+$artigo = new Artigo($mysql);
 $artigos = $artigo->exibirTodos();
 
 ?>
@@ -23,7 +25,7 @@ $artigos = $artigo->exibirTodos();
             <div class="container-style">
 
                 <h2>
-                    <a class="text-link" href=<?php echo $artigo['link'];?> >
+                    <a class="text-link" hhref="artigo.php?id=<?php echo $artigo['id']; ?>" >
                         <?php echo $artigo['titulo']; ?>
                     </a>
                 </h2>

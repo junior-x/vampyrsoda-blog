@@ -17,7 +17,7 @@
 - [-] Sass components
 
 
-<h1 aling="center">🏹 TRACERS</h1>
+<h1 align="center">🏹 TRACERS</h1>
 
 `v 0.0.3`
 
