@@ -69,10 +69,35 @@ XAMPP Install
 
     ~$ sudo /opt/lampp/lampp start
 
+---
+
+
 *To make shure that is really running just repeat the command and it`s going to pop some infos up like this*
 
 <h1 align="center"><image src="./source/screen/xampp-cmd.png"/></h1>
 
+---
+
+`Stop` XAMPP services (Apache, MySQL + Others)
+
+    ~$ sudo /opt/lampp/lampp stop
+
+    ~$ sudo stop
+
+    ~$ sudo stopapache
+
+    ~$ sudo stopmysql
+
+    ~$ sudo stopftp
+
+`Start` *single service just change* `stop` *for >>>*  `start`
+
+    ~$ sudo start#service
+
+
+*You should get a cool msg like that if it`s all right*
+
+<h1 align="center"><image src="./source/screen/xampp-cmd-stop.png"/></h1>
 
 *After the XAMPP installation can make the php files be a little mess up so try this if get any errors or fails attempts. :D*
 
