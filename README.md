@@ -24,6 +24,7 @@
 ### Main-Missions
 
 - [x] Styles (Front-End)
+- [x] API
 
 ---
 
