@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `artigos` (
 --
 
 INSERT INTO `artigos` (`id`, `titulo`, `conteudo`) VALUES
-(1, 'Hi, I`m vampyrsoda! :)', 'Hoje em dia eu sou animador e desenvolvedor e tenho direcionado meus estudos para a area de Front-End e Mobile development.'),
+(1, 'Hi, I`m vampyrsoda! :)', 'Hoje em dia eu sou animador e desenvolvedor e tenho direcionado meus estudos para a area de Front-End /// Mobile development.'),
 (2, 'Hack!ng Z0nE', 'C0DE / / / Dicas & Tutorials + + + '),
 (3, 'Welcome to the Dark-Side', 'Conheca alguns projetos ja desenvolvidos! ');
 
