@@ -69,7 +69,7 @@ XAMPP Install
 
 *To make shure that is really running just repeat the command and it`s going to pop some infos up like this*
 
-<h1 align="center"><image src="./source/img/xampp-cmd.png"/></h1>
+<h1 align="center"><image src="./source/screen/xampp-cmd.png"/></h1>
 
 
 *After the XAMPP installation can make the php files be a little mess up so try this if get any errors or fails attempts. :D*
