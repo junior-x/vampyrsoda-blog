@@ -1,7 +1,7 @@
 <!--Lets F*king Code :)-->
 <div>
     <h1 align="center">⚡<br>vampyrsoda-blog</h1> 
-    <h1 align="center" style="font-style: italic;">FullStack Site Development.</h1>
+    <h1 align="center" height="27" font-style="italic">FullStack Site Development.</h1>
 </div>
 
 ### Main-Missions
@@ -17,7 +17,7 @@
 - [-] Sass components
 
 
-<h1 align="center">🏹 TRACERS</h1>
+<h1 align="center" font-style="italic" >🏹 TRACERS</h1>
 
 `v 0.0.3`
 
@@ -27,8 +27,7 @@
 
 ---
 
-*Some styles for the basics visuals concepts, for the start, just usyng pure HTML / CSS, for the future gonna migrate to reactjs and implement some Animations.*
-
+*Not looking too much diferente but the implementation it`s made, and some features inside the topic with styles and dynamics updates by php + mysql for the back-end.*
 
 <h1 align="center">
     <image src="./source/screen/screen-v3.png" />
@@ -38,7 +37,7 @@
 
 `v 0.0.0`
 
-*Some styles for the basics visuals concepts, for the start, just usyng pure HTML / CSS, for the future gonna migrate to reactjs and implement some Animations.*
+*Some styles for the basics visuals concepts, to beggin, just usyng pure HTML / CSS right now, for the future gonna migrate to reactjs and implement some Animations.*
 
 <h1 align="center">
     <image src="./source/screen/screen-v0.png" />
@@ -48,7 +47,7 @@
 
 XAMPP Install
 
-*Windows just need to install for Linux just some lines*
+*Windows just need to install and for Linuxs some lines*
 
 `Download`
 
@@ -64,10 +63,18 @@ XAMPP Install
 
     ~$ sudo ./xampp-linux-x64-7.4.12-0-installer.run
 
+`Start` XAMPP services by command >_
 
-*After the XAMPP install could the php files be a little mess up so try this if get any errors*
+    ~$ sudo /opt/lampp/lampp start
 
-`phpmyadmin`
+*To make shure that is really running just repeat the command and it`s going to pop some infos up like this*
+
+<h1 align="center"><image src="./source/img/xampp-cmd.png"/></h1>
+
+
+*After the XAMPP installation can make the php files be a little mess up so try this if get any errors or fails attempts. :D*
+
+`phpmyadmin files fix`
 
     ~$ sudo chmod 755 /opt/lampp/phpmyadmin/config.inc.php
 

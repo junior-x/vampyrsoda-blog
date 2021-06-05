@@ -25,7 +25,7 @@ $artigos = $artigo->exibirTodos();
             <div class="container-style">
 
                 <h2>
-                    <a class="text-link" hhref="artigo.php?id=<?php echo $artigo['id']; ?>" >
+                    <a class="text-link" href="artigo.php?id=<?php echo $artigo['id']; ?>" >
                         <?php echo $artigo['titulo']; ?>
                     </a>
                 </h2>
