@@ -26,7 +26,7 @@ $artigo = $obj_artigo->encontrarPorId($_GET['id']);
         </p>
         
         <div>
-            <a class="botao botao-block" href="index.php">Voltar</a>
+            <a class="botao botao-block" href="index.php">   <   </a>
         </div>
 
     </div>
