@@ -30,7 +30,8 @@
 *Not looking too much diferente but the implementation it`s made, and some features inside the topic with styles and dynamics updates by php + mysql for the back-end.*
 
 <h1 align="center">
-    <image src="./source/screen/screen-v3.png" />
+    <image src="./source/screen/screen-v3.png" /> <br>
+    <image src="./source/screen/screen-artigo-v3.png" />
 </h1>
 
 ---
