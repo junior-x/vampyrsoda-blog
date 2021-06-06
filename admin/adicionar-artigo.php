@@ -17,11 +17,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link rel="stylesheet" type="text/css" href="../style.css">
     <meta charset="UTF-8">
     <title>New Post</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
     <div id="container">
-        <h1>New Post</h1>
+        <h1 style="text-mainTitle">New Post</h1>
         <form action="adicionar-artigo.php" method="POST">
             <p>
                 <label for="">Digite o título do artigo</label>
