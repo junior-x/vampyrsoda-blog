@@ -6,7 +6,7 @@ class Artigo{
 
     public function __construct(mysqli $mysql){
         
-        $this->mysql = $mysql;
+        $this -> mysql = $mysql;
     }
 
     public function adicionar(string $titulo, string $conteudo): void {

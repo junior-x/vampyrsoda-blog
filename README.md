@@ -26,7 +26,7 @@
 ### Main-Missions
 
 - [x] DataBank (Add a Post)
-- [-] DataBank (Delet a Post)
+- [-] DataBank (Delete a Post)
 
 
 *Upload via PHP + MySQL implemented, now just need the remove and styles.*

@@ -53,6 +53,11 @@ ul {
   box-shadow: 3px 3px 0px #632b74;
 }
 
+button:hover {
+  transform: scale(9px);
+  transition: transform 0.3s linear;
+}
+
 .campo-form {
   margin: 10px 0;
   display: block;
