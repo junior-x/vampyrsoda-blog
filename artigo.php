@@ -1,10 +1,10 @@
 <?php 
 
-require 'Config.php';
+require '../Config.php';
 require 'src/Artigo.php';
 
-$obj_artigo = new Artigo($mysql);
-$artigo = $obj_artigo->encontrarPorId($_GET['id']);
+$artigo = new Artigo($mysql);
+$artigo = $artigo->encontrarPorId($_GET['id']);
 
 ?>
 
