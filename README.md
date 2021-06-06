@@ -1,7 +1,7 @@
 <!--Lets F*king Code :)-->
 <div>
     <h1 align="center">⚡<br>vampyrsoda-blog</h1> 
-    <h1 align="center" height="27" font-style="italic">FullStack Site Development.</h1>
+    <h1 align="center" height="27" >FullStack Site Development.</h1>
 </div>
 
 ### Main-Missions
@@ -17,7 +17,7 @@
 - [-] Sass components
 
 
-<h1 align="center" font-style="italic" >🏹 TRACERS</h1>
+<h1 align="center" >🏹 TRACERS</h1>
 
 `v 0.0.3`
 
@@ -100,6 +100,7 @@ XAMPP Install
 <h1 align="center"><image src="./source/screen/xampp-cmd-stop.png"/></h1>
 
 *After the XAMPP installation can make the php files be a little mess up so try this if get any errors or fails attempts. :D*
+
 
 `phpmyadmin files fix`
 
