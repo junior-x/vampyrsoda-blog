@@ -17,8 +17,25 @@
 - [-] Xnimations
 - [-] Sass components
 
+---
 
 <h1 align="center" >🏹 TRACERS</h1>
+
+`v 0.0.9`
+
+### Main-Missions
+
+- [x] DataBank (Add a Post)
+- [-] DataBank (Delet a Post)
+
+
+*Upload via PHP + MySQL implemented, now just need the remove and styles.*
+
+<h1 align="center">
+    <image src="./source/screen/screen-v9.png" />
+</h1>
+
+---
 
 `v 0.0.6`
 
@@ -93,6 +110,10 @@ XAMPP Install
 
 *To make shure that is really running just repeat the command and it`s going to pop some infos up like this*
 
+
+`http://localhost/###/`
+
+
 <h1 align="center"><image src="./source/screen/xampp-cmd.png"/></h1>
 
 ---
@@ -128,4 +149,3 @@ XAMPP Install
 `phpmyadmin files fix`
 
     ~$ sudo chmod 755 /opt/lampp/phpmyadmin/config.inc.php
-
