@@ -8,6 +8,7 @@
 
 - [x] Styles (Front-End)
 - [x] API
+- [x] Form-Post (MySQL Data $POST)
 - [-] DataBank (PHP + MySQL)
 
 ### Side-Quests
@@ -18,6 +19,22 @@
 
 
 <h1 align="center" >🏹 TRACERS</h1>
+
+`v 0.0.6`
+
+### Main-Missions
+
+- [x] Form-Post (MySQL Data $POST)
+
+
+*Dinamic post uploads by data-base direct into main-page.*
+
+<h1 align="center">
+    <image src="./source/screen/screen-v6.png" />
+</h1>
+
+
+---
 
 `v 0.0.3`
 
