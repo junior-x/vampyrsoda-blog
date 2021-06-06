@@ -70,14 +70,17 @@ XAMPP Install
 `Download`
 
     ~$ sudo add-apt-repository ppa:upubuntu-com/web
+.
 
     ~$ sudo apt-get update
+.
 
     ~$ sudo apt-get install xampp
 
 `Run`
 
     ~$ chmod a+x xampp-linux-x64-7.4.12-0-installer.run
+.
 
     ~$ sudo ./xampp-linux-x64-7.4.12-0-installer.run
 
@@ -97,12 +100,16 @@ XAMPP Install
 `Stop` XAMPP services (Apache, MySQL + Others)
 
     ~$ sudo /opt/lampp/lampp stop
+.
 
     ~$ sudo stop
+.
 
     ~$ sudo stopapache
+.
 
     ~$ sudo stopmysql
+.
 
     ~$ sudo stopftp
 

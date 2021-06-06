@@ -1,6 +1,7 @@
 .text-mainTitle {
     background-color: rgb(211, 9, 69);
     color: #FFFFFF;
-  text-shadow: 1px 1px 0px rgb(88, 43, 99);
-  width: 30px;
+    text-shadow: 1px 1px 0px rgb(88, 43, 99);
+    width: fit-content;
 }
+
