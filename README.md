@@ -43,7 +43,6 @@
 - [x] Styles (Front-End)
 - [x] API
 
----
 
 *Not looking too much diferente but the implementation it`s made, and some features inside the topic with styles and dynamics updates by php + mysql for the back-end.*
 
