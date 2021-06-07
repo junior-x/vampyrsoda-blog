@@ -19,7 +19,7 @@ $artigos = $artigo -> exibirTodos();
 
 <body>
     <div id="container">
-        <h1>Página Administrativa</h1>
+        <h1 class="text-mainTitle_index">Página Administrativa</h1>
         <div>
             
             <?php foreach($artigos as $art) { ?>
@@ -34,7 +34,7 @@ $artigos = $artigo -> exibirTodos();
 
             <?php } ?>
         </div>
-        <a class="botao botao-block" href="adicionar-artigo.php">Adicionar Artigo</a>
+        <a class="botao botao-block" href="adicionar-artigo.php">Post</a>
     </div>
 </body>
 

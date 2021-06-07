@@ -5,3 +5,9 @@
     width: fit-content;
 }
 
+.text-mainTitle_index {
+    background-color: #FFBA42;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 0px rgb(88, 43, 99);
+    width: fit-content;
+}

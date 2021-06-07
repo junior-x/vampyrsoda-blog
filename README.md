@@ -9,7 +9,9 @@
 - [x] Styles (Front-End)
 - [x] API
 - [x] Form-Post (MySQL Data $POST)
-- [-] DataBank (PHP + MySQL)
+- [x] DataBank (Delete a Post)
+- [-] DataBank (Edit)
+- [-] ALL GOOD (PHP + MySQL)
 
 ### Side-Quests
 
@@ -20,6 +22,21 @@
 ---
 
 <h1 align="center" >🏹 TRACERS</h1>
+
+`v 0.0.10`
+
+### Main-Missions
+
+- [x] DataBank (Delete a Post)
+- [-] DataBank (Edit)
+
+*Upload a post from admin page and navigation management.*
+
+<h1 align="center">
+    <image src="./source/screen/screen-v10.png" />
+</h1>
+
+---
 
 `v 0.0.9`
 
