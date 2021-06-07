@@ -21,29 +21,20 @@ $artigos = $artigo -> exibirTodos();
     <div id="container">
         <h1>Página Administrativa</h1>
         <div>
+            
+            <?php foreach($artigos as $art) { ?>
+
             <div id="artigo-admin">
-                <p>Primeiros passos com Spring</p>
+                <p><?php echo $art['titulo']; ?></p>
                 <nav>
-                    <a class="botao" href="admin/editar-artigo.html">Editar</a>
-                    <a class="botao" href="admin/excluir-artigo.html">Excluir</a>
+                    <a class="botao" href="admin/editar-artigo.php?id=<?php echo $art['id']; ?>">Editar</a>
+                    <a class="botao" href="admin/excluir-artigo.php? id=<?php echo $art['id']; ?>">Excluir</a>
                 </nav>
             </div>
-            <div id="artigo-admin">
-                <p>O que é Metodologia Ágil?</p>
-                <nav>
-                    <a class="botao" href="admin/editar-artigo.html">Editar</a>
-                    <a class="botao" href="admin/excluir-artigo.html">Excluir</a>
-                </nav>
-            </div>
-            <div id="artigo-admin">
-                <p>Como é o funil do Growth Hacking?</p>
-                <nav>
-                    <a class="botao" href="admin/editar-artigo.html">Editar</a>
-                    <a class="botao" href="admin/excluir-artigo.html">Excluir</a>
-                </nav>
-            </div>
+
+            <?php } ?>
         </div>
-        <a class="botao botao-block" href="admin/adicionar-artigo.html">Adicionar Artigo</a>
+        <a class="botao botao-block" href="adicionar-artigo.php">Adicionar Artigo</a>
     </div>
 </body>
 
