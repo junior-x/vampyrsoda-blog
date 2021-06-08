@@ -2,13 +2,13 @@
 
 require '../Config.php';
 require '../src/Artigo.php';
+require '../src/redireciona.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $artigo = new Artigo($mysql);
     $artigo -> adicionar($_POST['titulo'], $_POST['conteudo']);
 
-    header('Location: /vampyrsoda/admin/index.php');
-    die();
+    redireciona('/vampyrsoda-blog/admin/index.php');
 }
 ?>
 
