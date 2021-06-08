@@ -23,6 +23,21 @@
 
 <h1 align="center" >🏹 TRACERS</h1>
 
+`v 0.0.12`
+
+### Main-Quests
+
+- [x] DataBank (Delete a Post)
+- [x] DataBank (Edit)
+
+*Post Edit route with php com states form #id and #values.*
+
+<h1 align="center">
+    <image src="./source/screen/screen-v12.png" />
+</h1>
+
+---
+
 `v 0.0.11`
 
 ### Main-Missions
