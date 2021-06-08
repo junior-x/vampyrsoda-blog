@@ -10,7 +10,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     header('Location: /vampyrsoda/admin/index.php');
     die();
 }
-
 ?>
 
 <!DOCTYPE html>

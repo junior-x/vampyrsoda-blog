@@ -27,14 +27,14 @@ $artigos = $artigo -> exibirTodos();
             <div id="artigo-admin">
                 <p><?php echo $art['titulo']; ?></p>
                 <nav>
-                    <a class="botao" href="admin/editar-artigo.php?id=<?php echo $art['id']; ?>">Editar</a>
-                    <a class="botao" href="admin/excluir-artigo.php? id=<?php echo $art['id']; ?>">Excluir</a>
+                    <a class="botao" href="editar-artigo.php?id=<?php echo $art['id']; ?>">Editar</a>
+                    <a class="botao" href="excluir-artigo.php? id=<?php echo $art['id']; ?>">Excluir</a>
                 </nav>
             </div>
 
             <?php } ?>
         </div>
-        <a class="botao botao-block" href="adicionar-artigo.php">Post</a>
+        <a class="botao botao-block" href="adicionar-artigo.php">New Post</a>
     </div>
 </body>
 

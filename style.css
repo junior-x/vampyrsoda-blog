@@ -41,6 +41,7 @@ ul {
 
 #artigo-admin:hover {
   background-color: #cccccc;
+  border-radius: 12px;
 }
 
 .botao {
@@ -53,7 +54,7 @@ ul {
   box-shadow: 3px 3px 0px #632b74;
 }
 
-button:hover {
+.botao:hover {
   transform: scale(9px);
   transition: transform 0.3s linear;
 }
@@ -73,7 +74,7 @@ button:hover {
   height: 60px;
 }
 
-.text-mainTitle_index {
+.c {
   background-color: #FFBA42;
   color: #FFFFFF;
   text-shadow: 1px 1px 0px rgb(88, 43, 99);
