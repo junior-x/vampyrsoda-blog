@@ -23,11 +23,26 @@
 
 <h1 align="center" >🏹 TRACERS</h1>
 
-`v 0.0.10`
+`v 0.0.11`
 
 ### Main-Missions
 
 - [x] DataBank (Delete a Post)
+- [-] DataBank (Edit)
+
+*Fix the navigation with php routes and Delete a post from a page is finished.*
+
+<h1 align="center">
+    <image src="./source/screen/screen-v11.png" />
+</h1>
+
+---
+
+`v 0.0.10`
+
+### Main-Missions
+
+- [-] DataBank (Delete a Post)
 - [-] DataBank (Edit)
 
 *Upload a post from admin page and navigation management.*
