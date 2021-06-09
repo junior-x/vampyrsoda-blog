@@ -22,7 +22,7 @@ $artigo = $artigo->encontrarPorId($_GET['id']);
         <h1 class="text-titleName"><?php echo $artigo['titulo']; ?></h1>
 
         <p>
-            <?php echo $artigo['conteudo']; ?>
+            <?php echo nl2br($artigo['conteudo']); ?>
         </p>
         
         <div>
