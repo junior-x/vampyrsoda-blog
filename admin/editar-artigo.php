@@ -4,6 +4,11 @@ require '../config.php';
 include '../src/Artigo.php';
 require '../src/redireciona.php';
 
+if ($_SERVER['REQUEST METHOD'] === 'POST') {
+    $artigo = new Artigo($mysql);
+    $artigo -> editar($_POST['id'], $_POST['titulo'], $_POST['conteudo']);
+}
+
 $artigo = new Artigo($mysql);
 $art = $artigo -> encontrarPorId($_GET['id']);
 
@@ -31,7 +36,7 @@ $art = $artigo -> encontrarPorId($_GET['id']);
                 <textarea class="campo-form" type="text" name="conteudo" id="titulo"></textarea>
             </p>
             <p>
-                <input type="hidden" name="id" value="<?php echo $art['titulo']; ?>" />
+                <input type="hidden" name="id" value="<?php echo $art['id']; ?>" />
             </p>
             <p>
                 <button class="botao">Editar Artigo</button>
