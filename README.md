@@ -10,8 +10,8 @@
 - [x] API
 - [x] Form-Post (MySQL Data $POST)
 - [x] DataBank (Delete a Post)
-- [-] DataBank (Edit)
-- [-] ALL GOOD (PHP + MySQL)
+- [x] DataBank (Edit)
+- [x] ALL GOOD (PHP + MySQL)
 
 ### Side-Quests
 
@@ -36,6 +36,24 @@
 ---
 
 <h1 align="center" >🏹 TRACERS</h1>
+
+`v 1.0.0`
+
+### Main-Missions
+
+- [x] Styles (Front-End)
+- [x] API
+- [x] Form-Post (MySQL Data $POST)
+- [x] DataBank (Delete a Post)
+- [x] DataBank (Edit)
+- [x] ALL GOOD (PHP + MySQL)
+
+
+*Everything it`s kind a working and basics functions it`s out and flowin, Need some slaps here and there and soon will be more polish. :)*
+
+<h1 align="center">
+    <image src="./source/screen/screen-v1-0.png"/>
+</h1>
 
 `v 0.0.12`
 
