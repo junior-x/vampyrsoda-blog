@@ -11,13 +11,13 @@
 - [x] Form-Post (MySQL Data $POST)
 - [x] DataBank (Delete a Post)
 - [x] DataBank (Edit)
-- [x] ALL GOOD (PHP + MySQL)
+- [x] PHP + MySQL
 
 ### Side-Quests
 
-- [-] Refactore to >>> ReactJs
 - [-] Xnimations
-- [-] Sass components
+- [-] Styles
+- [-] Buttons
 
 ---
 
@@ -39,6 +39,9 @@
 
 `v 1.0.0`
 
+
+*Everything it`s kind a working and basics functions it`s out and flowin, Need some slaps here and there and soon will be more polish. :)*
+
 ### Main-Missions
 
 - [x] Styles (Front-End)
@@ -49,20 +52,20 @@
 - [x] ALL GOOD (PHP + MySQL)
 
 
-*Everything it`s kind a working and basics functions it`s out and flowin, Need some slaps here and there and soon will be more polish. :)*
-
 <h1 align="center">
     <image src="./source/screen/screen-v1-0.png"/>
 </h1>
 
 `v 0.0.12`
 
+*Post Edit route with php com states form #id and #values.*
+
 ### Main-Quests
 
 - [x] DataBank (Delete a Post)
 - [x] DataBank (Edit)
 
-*Post Edit route with php com states form #id and #values.*
+
 
 <h1 align="center">
     <image src="./source/screen/screen-v12.png" />
@@ -72,12 +75,14 @@
 
 `v 0.0.11`
 
+*Fix the navigation with php routes and Delete a post from a page is finished.*
+
 ### Main-Missions
 
 - [x] DataBank (Delete a Post)
 - [-] DataBank (Edit)
 
-*Fix the navigation with php routes and Delete a post from a page is finished.*
+
 
 <h1 align="center">
     <image src="./source/screen/screen-v11.png" />
@@ -87,12 +92,13 @@
 
 `v 0.0.10`
 
+*Upload a post from admin page and navigation management.*
+
 ### Main-Missions
 
 - [-] DataBank (Delete a Post)
 - [-] DataBank (Edit)
 
-*Upload a post from admin page and navigation management.*
 
 <h1 align="center">
     <image src="./source/screen/screen-v10.png" />
@@ -102,13 +108,14 @@
 
 `v 0.0.9`
 
+*Upload via PHP + MySQL implemented, now just need the remove and styles.*
+
 ### Main-Missions
 
 - [x] DataBank (Add a Post)
 - [-] DataBank (Delete a Post)
 
 
-*Upload via PHP + MySQL implemented, now just need the remove and styles.*
 
 <h1 align="center">
     <image src="./source/screen/screen-v9.png" />
@@ -118,12 +125,13 @@
 
 `v 0.0.6`
 
+*Dinamic post uploads by data-base direct into main-page.*
+
 ### Main-Missions
 
 - [x] Form-Post (MySQL Data $POST)
 
 
-*Dinamic post uploads by data-base direct into main-page.*
 
 <h1 align="center">
     <image src="./source/screen/screen-v6.png" />
@@ -134,13 +142,14 @@
 
 `v 0.0.3`
 
+*Not looking too much diferente but the implementation it`s made, and some features inside the topic with styles and dynamics updates by php + mysql for the back-end.*
+
 ### Main-Missions
 
 - [x] Styles (Front-End)
 - [x] API
 
 
-*Not looking too much diferente but the implementation it`s made, and some features inside the topic with styles and dynamics updates by php + mysql for the back-end.*
 
 <h1 align="center">
     <image src="./source/screen/screen-v3.png" /> <br>
@@ -152,6 +161,9 @@
 `v 0.0.0`
 
 *Some styles for the basics visuals concepts, to beggin, just usyng pure HTML / CSS right now, for the future gonna migrate to reactjs and implement some Animations.*
+
+
+
 
 <h1 align="center">
     <image src="./source/screen/screen-v0.png" />
