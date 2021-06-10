@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Alura\\vampyrsoda-blog\\": "src/"
+        }
+    },
+    "require": {
+        "doctrine/orm": "^2.6"
+    }
+}
