@@ -15,6 +15,7 @@
 
 ### Side-Quests
 
+- [-] Login / SingOut
 - [-] Xnimations
 - [-] Styles
 - [-] Buttons
@@ -36,6 +37,18 @@
 ---
 
 <h1 align="center" >🏹 TRACERS</h1>
+
+`v 1.0.1`
+
+*Now and foward the Soda's Blog, need a login screen and some buttons for the pages with stuffs. :D*
+
+<h1 align="center">
+    <image src="./source/screen/screen-v1-1.png">
+</h1>
+
+
+---
+
 
 `v 1.0.0`
 
