@@ -31,8 +31,9 @@
 
 <h1 align="center">
     <image src="./source/screen/prototype-01.png" /> <br>
-    <image src="./source/screen/prototype-02.png" /> <br>
+    <!--<image src="./source/screen/prototype-02.png" /> <br>
     <image src="./source/screen/prototype-03.png" /> <br>
+    <image src="./source/screen/prototype-04.png" /> <br>-->
 </h1>
 
 ---

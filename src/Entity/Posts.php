@@ -2,10 +2,6 @@
 
 namespace Alura\Cursos\Entity;
 
-/**
- * @Entity
- * @Table(name="cursos")
- */
 class Curso
 {
     /**
