@@ -1,4 +1,4 @@
-<!--Lets F*king Code :)-->
+<!--Let's F*k!nG C0de :)-->
 <div>
     <h1 align="center">⚡<br>vampyrsoda-blog</h1> 
     <h1 align="center" height="27" >FullStack Site Development.</h1>
@@ -146,7 +146,6 @@
 - [x] Form-Post (MySQL Data $POST)
 
 
-
 <h1 align="center">
     <image src="./source/screen/screen-v6.png" />
 </h1>
@@ -175,8 +174,6 @@
 `v 0.0.0`
 
 *Some styles for the basics visuals concepts, to beggin, just usyng pure HTML / CSS right now, for the future gonna migrate to reactjs and implement some Animations.*
-
-
 
 
 <h1 align="center">
