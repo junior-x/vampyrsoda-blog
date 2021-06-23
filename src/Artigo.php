@@ -1,5 +1,4 @@
 <!-- Hello -->
-
 <?php
 
 class Artigo{
