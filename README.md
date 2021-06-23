@@ -6,20 +6,20 @@
 
 ### Main-Missions
 
-- [x] Styles (Front-End)
-- [x] API
-- [x] Form-Post (MySQL Data $POST)
-- [x] DataBank (Delete a Post)
-- [x] DataBank (Edit)
-- [x] PHP + MySQL
+- [x] Styles (Front-End);
+- [x] API;
+- [x] Form-Post (MySQL Data $POST);
+- [x] DataBank (Delete a Post);
+- [x] DataBank (Edit);
+- [x] PHP + MySQL;
 
 ### Side-Quests
 
-- [-] Login / SingOut
-- [-] Xnimations
-- [-] Styles
-- [-] Buttons
-- [-] Host
+- [-] Login / SingOut;
+- [-] Xnimations;
+- [-] Styles;
+- [-] Buttons;
+- [-] Host;
 
 ---
 
@@ -59,12 +59,12 @@
 
 ### Main-Missions
 
-- [x] Styles (Front-End)
-- [x] API
-- [x] Form-Post (MySQL Data $POST)
-- [x] DataBank (Delete a Post)
-- [x] DataBank (Edit)
-- [x] ALL GOOD (PHP + MySQL)
+- [x] Styles (Front-End);
+- [x] API;
+- [x] Form-Post (MySQL Data $POST);
+- [x] DataBank (Delete a Post);
+- [x] DataBank (Edit);
+- [x] ALL GOOD (PHP + MySQL);
 
 
 <h1 align="center">
@@ -77,8 +77,8 @@
 
 ### Main-Quests
 
-- [x] DataBank (Delete a Post)
-- [x] DataBank (Edit)
+- [x] DataBank (Delete a Post);
+- [x] DataBank (Edit);
 
 
 
@@ -94,8 +94,8 @@
 
 ### Main-Missions
 
-- [x] DataBank (Delete a Post)
-- [-] DataBank (Edit)
+- [x] DataBank (Delete a Post);
+- [-] DataBank (Edit);
 
 
 
@@ -111,8 +111,8 @@
 
 ### Main-Missions
 
-- [-] DataBank (Delete a Post)
-- [-] DataBank (Edit)
+- [-] DataBank (Delete a Post);
+- [-] DataBank (Edit);
 
 
 <h1 align="center">
@@ -127,8 +127,8 @@
 
 ### Main-Missions
 
-- [x] DataBank (Add a Post)
-- [-] DataBank (Delete a Post)
+- [x] DataBank (Add a Post);
+- [-] DataBank (Delete a Post);
 
 
 
@@ -144,7 +144,7 @@
 
 ### Main-Missions
 
-- [x] Form-Post (MySQL Data $POST)
+- [x] Form-Post (MySQL Data $POST);
 
 
 <h1 align="center">
@@ -160,8 +160,8 @@
 
 ### Main-Missions
 
-- [x] Styles (Front-End)
-- [x] API
+- [x] Styles (Front-End);
+- [x] API;
 
 
 
@@ -221,7 +221,7 @@ XAMPP Install
 
 ---
 
-`Stop` XAMPP services (Apache, MySQL + Others)
+`Stop` XAMPP services (Apache, MySQL + Others);
 
     ~$ sudo /opt/lampp/lampp stop
 .
