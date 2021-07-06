@@ -1,7 +1,7 @@
 <!--Let's F*k!nG C0de :)-->
 <div>
     <h1 align="center">⚡<br>vampyrsoda-blog</h1> 
-    <h3 align="center" height="27" >FullStack Site Development.</h3>
+    <h3 align="center" height="27" > <em> FullStack Site Development. </em> </h3>
 </div>
 
 ### Main-Missions
