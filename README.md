@@ -1,6 +1,6 @@
 <!--Let's F*k!nG C0de :)-->
 <div>
-    <h1 align="center">⚡<br>vampyrsoda-blog</h1> 
+    <h1 align="center">⚡<br>vampyrsoda-blog</h1> <br>
     <h6 align="center" height="27" > <em> FullStack Site Development. </em> </h6>
 </div>
 
